@@ -1,2 +1,2 @@
 # DS_Algo
-Data Structure and Algorithms
+Repository for Data Structure and Algorithms
