@@ -1,2 +1,2 @@
-# DS_Algo
+# DS & Algo
 Data Structure and Algorithms
