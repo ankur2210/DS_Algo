@@ -60,6 +60,7 @@ mark {
 	color: inherit;
 }
 
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -211,6 +212,12 @@ input, select, textarea {
 	}
 
 /* Container */
+
+	.aSeparator {
+    	border-top:1px solid #5f656d;
+    	height:1px;
+    	margin:16px 0;
+   	}
 
 	.container {
 		margin: 0 auto;
